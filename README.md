@@ -40,7 +40,7 @@ Our goal is to transform minds and demonstrate that individuals can break throug
 - Request Fee: Accessing live and current career or business information on our resource center will incur fees from businesses, excluding individuals.
 
 **What Sets Us Apart**
-- Transformative Approach: ConnectVista goes beyond providing connectivity; we believe in a transformative approach that nurtures digital literacy, ensuring sustained empowerment.
+- Transformative Approach: ConnectVistas goes beyond providing connectivity; we believe in a transformative approach that nurtures digital literacy, adoption  and mindset change, ensuring sustained empowerment.
 - Community-Centric: We focus on low-income and remote communities, recognizing the unique challenges they face. Our goal is to empower individuals within these communities to seize the opportunities of the digital age.
 
 
