@@ -34,7 +34,7 @@ Our goal is to transform minds and demonstrate that individuals can break throug
 
 **Revenue Streams**
 - ConnectVistas sustains its operations through the following revenue streams:
-- Subscription Fee: Community Wi-Fi Center users are required to pay $10 per month.
+- Subscription Fee: Community Wi-Fi Center users are required to pay a certain fee depending on usage of the internet and other facilities.
 - Service Fee: Businesses seeking digital services will pay service fees.
 - Participation Fee: Tour participation will attract a fee based on the number of days and planned activities.
 - Request Fee: Accessing live and current career or business information on our resource center will incur fees from businesses, excluding individuals.
